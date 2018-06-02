@@ -1,0 +1,6 @@
+framework module VLOCInterpreterFramework {
+  umbrella header "VLOCInterpreterFramework.h"
+
+  export *
+  module * { export * }
+}
